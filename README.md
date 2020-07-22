@@ -1,6 +1,6 @@
 # Code Refactor for Accessibility
 
-Code Refactor for accesiblity is a repository  where I've refactored Horiseon's existing webpage to increase its accessibility, make sure the codebase follows accesibility standards, as well as improve their codebase for long term sustainability, . 
+Code Refactor for accesiblity is a repository  where I've refactored Horiseon's existing webpage to increase its accessibility, make sure the codebase follows accesibility standards, as well as improve their codebase for long term sustainability. 
 
 ![Webpage screenshot](/assets/images/digital-marketing-meeting.jpg)
 
