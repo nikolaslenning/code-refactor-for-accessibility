@@ -1,8 +1,9 @@
-# Code Refactor for Accesibility
-
-Link to live site: [Code Refactor](https://nikolaslenning.github.io/code-refactor-for-accessibility/)
+# Code Refactor for Accessibility
 
 Code Refactor for accesiblity is a repository  where I've refactored Horiseon's existing webpage to increase its accessibility, make sure the codebase follows accesibility standards, as well as improve their codebase for long term sustainability, . 
 
-
 ![Webpage screenshot](/assets/images/digital-marketing-meeting.jpg)
+
+A live link to my [Code Refactor](https://nikolaslenning.github.io/code-refactor-for-accessibility/) is hosted on Github pages.
+
+This application was authored by [Nikolas Lenning](https://github.com/nikolaslenning)
