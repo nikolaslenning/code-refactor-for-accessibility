@@ -1,5 +1,5 @@
-# Code Refactor for Accessibility
-  ![GitHub top language](https://img.shields.io/github/languages/top/nikolaslenning/code-refactor-for-accessibility)
+# Code Refactor for Accessibility 
+![GitHub top language](https://img.shields.io/github/languages/top/nikolaslenning/code-refactor-for-accessibility)
 
 Code Refactor for accesiblity is a repository  where I've refactored Horiseon's existing webpage to increase its accessibility, make sure the codebase follows accesibility standards, as well as improve their codebase for long term sustainability. 
 
