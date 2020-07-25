@@ -5,6 +5,8 @@ Code Refactor for accesiblity is a repository  where I've refactored Horiseon's 
 
 ![Webpage screenshot](/assets/images/Screenshot.png)
 
+[Meyerwebs Reset CSS tool](http://meyerweb.com/eric/tools/css/reset/) was used 
+
 A live link to my [Code Refactor](https://nikolaslenning.github.io/code-refactor-for-accessibility/) is hosted on Github pages.
 
 This application was authored by [Nikolas Lenning](https://github.com/nikolaslenning)
